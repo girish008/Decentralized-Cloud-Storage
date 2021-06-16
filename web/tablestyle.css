@@ -1,0 +1,15 @@
+
+table tr th{
+ background: black;
+ color:whitesmoke;
+ font-weight: bold;
+ height:50px;
+ width:150px;
+ color:red;
+}
+table tr td{
+    background: whitesmoke;
+    color:green;
+    height:35px;
+    text-align: center;
+}
